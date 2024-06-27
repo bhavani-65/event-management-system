@@ -1,6 +1,3 @@
-Certainly! Here's a simplified version of the README file description focusing on HTML, CSS, and JavaScript technologies for an event management system:
-
----
 
 # Event Management System
 
